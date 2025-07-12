@@ -1,6 +1,6 @@
-name : First Workflow
+name: First Workflow
 
-on :
+on:
   push:
     - main
 
