@@ -2,7 +2,8 @@ name: First Workflow
 
 on:
   push:
-    - main
+    branches:
+      - main
 
 jobs:
   example_job:
